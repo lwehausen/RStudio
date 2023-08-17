@@ -1,4 +1,4 @@
-Cubs\_DataAnalysis\_Viz
+Cubs\_Data\_Analysis\_Viz
 ================
 Lauren Wehausen
 9/1/2022
