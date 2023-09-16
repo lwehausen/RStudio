@@ -1,5 +1,5 @@
 ---
-title: "Cubs_DataAnalysis_Viz"
+title: "Cubs_Data_Analysis_Viz"
 author: "Lauren Wehausen"
 date: "9/1/2022"
 output: github_document
